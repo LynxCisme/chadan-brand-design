@@ -17,9 +17,9 @@
 ## 内容
 
 - `skills/chadan-brand/SKILL.md`：完整品牌规则
-- `assets/fonts/`：寒蝉有机体与思源黑体
-- `assets/logos/`：官方彩色、黑色、白色 Logo
-- `assets/graphics/`：官方辅助图形
+- `skills/chadan-brand/assets/fonts/`：寒蝉有机体与思源黑体
+- `skills/chadan-brand/assets/logos/`：官方彩色、黑色、白色 Logo
+- `skills/chadan-brand/assets/graphics/`：官方辅助图形
 
 ## 资源使用
 
