@@ -6,7 +6,7 @@
 
 在 **Codex** 或 **Claude Code** 的对话中，发送下面这句话：
 
-> 请安装这个 Skill：`https://github.com/LynxCisme/chadan-brand-skill/tree/main/skills/chadan-brand`
+> 请安装这个 Skill：`https://github.com/LynxCisme/chadan-brand-design/tree/main/skills/chadan-brand`
 
 安装完成后，开始一个新对话，再说：
 

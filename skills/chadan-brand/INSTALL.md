@@ -6,7 +6,7 @@
 
 在 Codex 或 Claude Code 的对话中发送：
 
-> 请安装这个 Skill：`https://github.com/LynxCisme/chadan-brand-skill/tree/main/skills/chadan-brand`
+> 请安装这个 Skill：`https://github.com/LynxCisme/chadan-brand-design/tree/main/skills/chadan-brand`
 
 工具会下载并安装该文件夹；安装完成后新开一个对话即可使用。
 
